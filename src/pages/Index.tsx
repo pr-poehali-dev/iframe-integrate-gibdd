@@ -22,7 +22,7 @@ const Index = () => {
 
           <div className="relative w-full h-[500px] sm:h-[600px] lg:h-[calc(100vh-280px)]">
             <iframe
-              src="https://oplatagosuslug.ru/poshliny_gibdd/"
+              src="https://functions.poehali.dev/88868a56-491f-4203-8c59-4e19f189b12a"
               className="w-full h-full border-0"
               title="Оплата госпошлин ГИБДД"
               loading="lazy"
